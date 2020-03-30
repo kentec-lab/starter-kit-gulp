@@ -1,6 +1,6 @@
 # Starter-Kit-Gulp
 
-Built for speeding up the process of web development with Gulp setup. Font-awesome v5.13.0 is included in the package. You may remove it if it is not being used in your project. 
+Built to speed up the process of web development with Gulp setup. Font-awesome v5.13.0 is included in the package. You may remove it if it is not being used in your project. 
 
 **Steps**
 ---------
