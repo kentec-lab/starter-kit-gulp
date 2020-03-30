@@ -44,7 +44,7 @@ gulp.task('clean', function () {
 
 // Copy fonts
 gulp.task('copyfonts', function () {
-    return gulp.src('./node_modules/font-awesome/fonts/**/*.{ttf,woff,eof,svg}*')
+    return gulp.src('./node_modules/@fortawesome/fontawesome-free/webfonts/**/*.{ttf,woff,eot,svg}*')
         .pipe(gulp.dest('./dist/fonts'));
 });
 
